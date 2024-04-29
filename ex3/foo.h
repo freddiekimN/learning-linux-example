@@ -1,6 +1,0 @@
-#ifndef foo_h__
-#define foo_h__
- 
-extern void foo(char *a);
- 
-#endif  // foo_h_

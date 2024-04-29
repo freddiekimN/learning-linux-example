@@ -1,0 +1,3 @@
+
+int div(int b);
+
